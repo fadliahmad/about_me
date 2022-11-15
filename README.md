@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, Machine Learning, etc
 - 💞️ I’m looking to collaborate on Machine Learning Project
+- 📖 I used this github for my personal project and portofolio
 - 📫 How to reach me fadliahmad.j@gmail.com
 
 <!---
