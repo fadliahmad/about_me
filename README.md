@@ -6,7 +6,7 @@ I am currently exploring and learning about emerging tech stacks in data enginee
 
 Here is some fun fact about me: 
 
-    🎓 I studied Informatics and Management when I was in college 
+    🎓 I studied Informatics Management when I was in college 
     📊 A Data Analyst who wants to switch or gain exposure in the ⚙️ Data Engineering Field
     📖 I used this GitHub for my project and portfolio
 
