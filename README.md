@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @fadliahmad
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, Machine Learning, etc
-- 💞️ I’m looking to collaborate on Machine Learning Project
-- 📖 I used this github for my personal project and portofolio
-- 📫 How to reach me fadliahmad.j@gmail.com
+# Hi there, I'm Fadli Ahmad, you can call me Fadli~ 
+
+I'm a data analyst, and I currently work remotely at Dagangan. Before Dagangan, I worked in several companies and industries, such as Pahamify (Edutech), Tanihub (Agri-Tech), and Mahakam Beta Farma (Pharmacy). Apart from working as a Data Analyst, I have also been a mentor at RevoU.
+
+I am currently exploring and learning about emerging tech stacks in data engineering such as Data Build Tools (DBT), and Airflow, and trying to get hands-on with setting up a data warehouse, cloud computing, and other data engineering tools.
+
+Here is some fun fact about me: 
+
+    🎓 I studied Informatics and Management when I was in college 
+    📊 A Data Analyst who wants to switch or gain exposure in the ⚙️ Data Engineering Field
+    📖 I used this GitHub for my project and portfolio
+
+How to reach me: 
+
+    ✉️ Email: fadliahmad.j@gmail.com
+    🔗 LinkedIn: https://www.linkedin.com/in/fadli-ahmad-j/
 
 <!---
 fadliahmad/fadliahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
